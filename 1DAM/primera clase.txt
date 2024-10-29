@@ -1,0 +1,14 @@
+wordspace - eclipse
+create a java project
+-JRE pro- jdk junior
+-SFC - CREAR PAQUETES(nombrado en minuscula)
+-crar clase - ir a new y class
+  - Import clases.*; ()
+-------
+diagrama de flujo
+rectangulo ovalado(inicio y fin)
+Trapecio rectangular (entreda de datos)
+rombo(hacer preguntas SI o NO)
+rectangulo (Una orden de pregunta)
+rectangulo "torcido" (respuesta ")
+
